@@ -3,8 +3,8 @@
 Proyek ini adalah aplikasi Kalkulator Interaktif yang dibuat untuk memenuhi Tugas Akhir Praktikum Pemrograman Web (Judul 5: JavaScript Dasar). Aplikasi dirancang dengan fitur lengkap seperti kalkulator modern, termasuk history, memory, keyboard support, dan tampilan bergaya modern.
 
 🔢 Fungsi Dasar
--Input angka 0–9
--Operasi aritmatika: +, −, ×, ÷
+Input angka 0–9
+Operasi aritmatika: +, −, ×, ÷
 Decimal point (.)
 Tombol C (Clear) dan CE (Clear Entry)
 Tombol = untuk menghitung
